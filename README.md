@@ -1,2 +1,4 @@
 # tiktok2
-Video
+* videos of dogs
+* remove likes
+* remove commints
